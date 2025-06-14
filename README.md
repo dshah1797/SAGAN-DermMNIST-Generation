@@ -14,13 +14,6 @@ This project demonstrates a Self-Attention Generative Adversarial Network (SAGAN
 
 ---
 
-## 🎥 Sample Output
-
-Training visualization (GAN output over epochs):
-
-![training gif](training_evolution.gif)
-
----
 
 ## 🧬 Dataset Info
 
